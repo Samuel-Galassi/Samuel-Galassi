@@ -25,7 +25,8 @@ Eu sou o **Samuel Galassi**, **Desenvolvedor Web**, atualmente focado em me apri
 - 🌟 [Simulação Starbucks (desktop only)](https://samuel-galassi.github.io/projeto-starbucks-responsivo-com-IA/) – Projeto pessoal inspirado no Starbucks, desenvolvido para **notebooks/PCs**.  
 - 📱 [Landing Page Responsiva](https://samuel-galassi.github.io/primeiro-desafio-css-middle-com-responsividade/) – Primeiro desafio com **CSS Middle**, design básico e responsivo.  
 - 📱 [Landing Page Básica Responsiva](https://samuel-galassi.github.io/Primeiro-Projeto-Responsivo/) – Projeto simples com foco em **responsividade**.  
-- 📄 [Landing Page Básica](https://samuel-galassi.github.io/projeto-html-do--Modulo-css-basic/) – Projeto inicial de **HTML e CSS**, sem foco em responsividade, mas responsivo. 
+- 📄 [Landing Page Básica](https://samuel-galassi.github.io/projeto-html-do--Modulo-css-basic/) – Projeto inicial de **HTML e CSS**, sem foco em responsividade, mas responsivo.
+- 💱 [Convert Money](https://samuel-galassi.github.io/Projeto-Convert-Money/) – Aplicação de **conversão de moedas** com HTML, CSS e JavaScript, interface responsiva e atualização dinâmica de valores e imagens das moedas.
 
 ---
 
