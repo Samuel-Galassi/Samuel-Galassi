@@ -34,10 +34,10 @@ Eu sou o **Samuel Galassi**, **Desenvolvedor Web Full Stack**, atualmente focado
 
 #### 🚀 Projetos Full Stack
 - 💰 [DevBills](https://interface-dev-bills-tau.vercel.app) – Aplicação de **controle financeiro pessoal** com autenticação Google via Firebase, dashboard com gráficos, histórico de transações e categorias. Stack: React, TypeScript, Tailwind, Node.js, Fastify, MongoDB, Prisma.
-- 🎯 [Elite Tracker](https://elite-tracker-frontend.vercel.app) – Plataforma de **produtividade** com timer pomodoro, rastreamento de hábitos e métricas. Stack: React, TypeScript, Styled Components, Node.js, Express, MongoDB, OAuth GitHub.
+- 🎯 [Elite Tracker (desktop only)](https://elite-tracker-frontend.vercel.app) – Plataforma de **produtividade** com timer pomodoro, rastreamento de hábitos e métricas. Stack: React, TypeScript, Styled Components, Node.js, Express, MongoDB, OAuth GitHub.
 
 #### 🎬 Projetos Frontend
-- 🎥 [DevMovies](https://dev-movies-nine.vercel.app) – Aplicação de **catálogo de filmes** consumindo API externa.
+- 🎥 [DevMovies (desktop only)](https://dev-movies-nine.vercel.app) – Aplicação de **catálogo de filmes** consumindo API externa.
 - 🌟 [Simulação Starbucks (desktop only)](https://samuel-galassi.github.io/projeto-starbucks-responsivo-com-IA/) – Projeto pessoal inspirado no Starbucks.
 - 📱 [Landing Page Responsiva](https://samuel-galassi.github.io/primeiro-desafio-css-middle-com-responsividade/) – Primeiro desafio com **CSS Middle**.
 - 📱 [Landing Page Básica Responsiva](https://samuel-galassi.github.io/Primeiro-Projeto-Responsivo/) – Projeto simples com foco em **responsividade**.
